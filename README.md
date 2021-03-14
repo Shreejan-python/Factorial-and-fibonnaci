@@ -1,0 +1,1 @@
+This is a C program where a factorial of a number is found and the number in the fibonnaci series is found.
